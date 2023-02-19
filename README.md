@@ -1,7 +1,7 @@
-![MasterHead](https://4kwallpapers.com/images/walls/thumbs_uwide/10018.jpg)
+![MasterHead](https://cutewallpaper.org/25/animated-pixle-gif-wallpaper/animated-pixel-art-that-soothes-my-soul-album-on-imgur.gif)
 <h1 align="center">Hi 👋, I'm Mohammad Shamsul Rayhan Chowdhury Nihal</h1>
 <h3 align="center">Keen to be a charming developer</h3>
-<img align="center" alt="Coding" width="400" src="https://cutewallpaper.org/25/animated-pixle-gif-wallpaper/animated-pixel-art-that-soothes-my-soul-album-on-imgur.gif"/>
+<!-- <img align="center" alt="Coding" width="400" src="https://cutewallpaper.org/25/animated-pixle-gif-wallpaper/animated-pixel-art-that-soothes-my-soul-album-on-imgur.gif"/> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaaamray" alt="shaaamray" /></a> </p>
 
