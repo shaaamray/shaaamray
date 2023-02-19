@@ -1,4 +1,4 @@
-![MasterHead](https://cutewallpaper.org/25/animated-pixle-gif-wallpaper/animated-pixel-art-that-soothes-my-soul-album-on-imgur.gif)
+![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/10280.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Shamsul Rayhan Chowdhury Nihal</h1>
 <h3 align="center">Keen to be a charming developer</h3>
 <!-- <img align="center" alt="Coding" width="400" src="https://cutewallpaper.org/25/animated-pixle-gif-wallpaper/animated-pixel-art-that-soothes-my-soul-album-on-imgur.gif"/> -->
